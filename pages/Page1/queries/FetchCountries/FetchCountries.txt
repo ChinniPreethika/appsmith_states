@@ -1,0 +1,1 @@
+SELECT DISTINCT country FROM gst_state_codes WHERE country IS NOT NULL;

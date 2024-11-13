@@ -1,0 +1,1 @@
+SELECT statename, gst_code FROM gst_state_codes WHERE country = {{ CountryDropDown.selectedOptionValue }};
